@@ -1,0 +1,252 @@
+.navbar{
+    width: 100%;
+    height: 70px;
+    background-color:white;
+    margin-top: 0;
+    border-bottom: 2px solid grey;
+    position: fixed;
+    z-index: 9;
+}
+body{
+    margin: 0;
+}
+h2{
+    margin: 0;
+}
+.icon{
+    padding-left: 30px;
+    padding-top: 20px;
+    
+}
+.bugatti-icon{
+      
+    width: 100px;
+    height: 70px;
+    background-image: url("https://www.bugatti.com/typo3conf/ext/bugatti_sitepackage/Resources/Public/Images/Logo/logo-bugatti_168x87.webp");
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-left: 550px;
+    margin-top: -40px;
+  
+    
+}
+.partner{
+    
+    font-size: small;
+    font-weight: 500;
+    float: left;
+    margin-left: 325px;
+    margin-top: -35px;
+    font-size: smaller;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif, Courier, monospace;
+    
+}
+.location{
+    width: 40px;
+    height: 20px;
+    background-size: contain;
+   background-image: url("./67347.png");
+   background-repeat: no-repeat;
+   margin-left:1160px;
+   margin-top: -25px;
+
+}
+
+
+.frontimage h1{
+    font-weight: 100%;
+    height: auto;
+    font-size: 50px;
+    font-weight: 200px;
+    margin-top: -680px;
+    color: white;
+    padding-left: 100px;
+    height: 90px;
+    cursor: auto;
+   
+}
+.frontimage h3{
+    width: 100%px;
+    height: 80%;
+    color: white;
+    padding-left: 100px;
+    margin-top: -60px;
+    object-fit: contain;
+    
+}
+#button1{
+    width: 150px;
+    height: 50px;
+    margin-left: 100px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border-color: white;
+    font-size: 15px;
+    font-weight: bold;
+}
+.under-text{
+       margin-top: 450px;
+       width: 100%;
+       height: 40px;
+       background-color:rgb(128, 128, 128);
+     padding-top: 4px;
+     text-align: center;
+     font-size: 12px;
+     color: white;
+       
+}
+.model{
+    width: 100%;
+    height: 100px;
+    background-color:white;
+    font-size: larger;
+    padding-left: 60px;
+    padding-top: 70px;
+}
+.carimages{
+    width: 100%;
+    height: 760px;
+   background-color:white;
+   
+}
+.carimages1 img{
+
+    width: 374.44px;
+    height: 374.44px;
+    padding-left: 100px;
+    
+}
+ .carimages2 img{
+    width: 374.44px;
+    height: 374.44px;
+    padding-left: 100px;
+    float: left;
+
+}
+.carimages3 img{
+    width: 700.9px;
+    height: 752px;
+    padding-left: 480px;
+    margin-top: -905px;
+    margin-bottom: 15px;
+}
+.carimages1 {
+    position: relative;
+
+}
+.carimages1 h5{
+    position: absolute;
+    margin-left: 110px;
+    bottom: 0;
+    color: white;
+}
+.carimages2{
+    position: relative;
+}
+.carimages2 h5{
+    position: absolute;
+    margin-top: 350px;
+    margin-left: 110px;
+    color: white;
+}
+.carimages3{
+    position: relative;
+}
+.carimages3 h5{
+    position: absolute;
+    bottom: 5px;
+    left: 500px;
+    color: white;
+}
+.universe{
+    width: 100%;
+    height: 0px;
+    padding: 100px;
+    
+}
+.universe1{
+    font-size: larger;
+    font-weight: 500;
+    color:black;
+    font-style: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.threeimages{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction:row ;
+}
+.oneimage img,.twoimage img,.threeimage img{
+    width: 350px;
+    height: 400px;
+    margin-left: 20px;
+    
+}
+.NEWS{
+    position: relative;
+    
+}
+.letter{
+    position: absolute;
+    width: 100%;
+    height: fit-content;
+    padding-left: 70px;
+    margin-top: 100px;
+    font-size: x-large;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image-andtext{
+
+    width: 100%;
+    height: 300px;
+    
+}
+.photos img{
+    width: 500px;
+    height:400px ;
+    margin-top: 200px;
+    margin-top: 200px;
+    padding-left: 60px;
+    padding-top: 30px;
+    
+}
+.photostext{
+    
+    padding-left: 600px;
+    margin-top: -380px;
+    font-size: x-small;
+
+}
+.buttonking{
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+    margin-top: 250px;
+
+}
+.buttonking:hover{
+     
+    border-bottom: 2px solid  black;
+}
+.typephotos{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    background-color: aqua;
+    margin-top: 500px;
+
+}
+.typephoto1 img,.typephoto2 img,.typephotos img{
+
+    width: 300px;
+    height: auto;
+}
